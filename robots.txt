@@ -10,4 +10,5 @@ Allow: /search
 
 Allow: /
 
-Sitemap: https://www.vasaka-solterra.com/feeds/posts/default?orderby=UPDATED
+Sitemap: https://www.newroyalresidences.com/feeds/posts/default?orderby=UPDATED
+
