@@ -1039,7 +1039,7 @@ a {
   }
 }
 .cid-sx5fnNNec7 {
-  background-image: url("../../../assets/images/solterra-tower-1.jpeg");
+  background-image: url("../../../assets/images/background-1.jpeg");
 }
 .cid-sx5fnNNec7 .mbr-section-title {
   color: #cc8230;
@@ -1070,7 +1070,7 @@ a {
 .cid-sx5vAY3Kg0 {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #ffffff;
+  background-color: #fff0b0;
 }
 @media (max-width: 991px) {
   .cid-sx5vAY3Kg0 .image-wrapper {
@@ -1086,7 +1086,7 @@ a {
 .cid-sx5iCKeksD {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-sx5iCKeksD .mbr-overlay {
   z-index: 1;
@@ -1214,6 +1214,14 @@ a {
 .cid-sx5iCKeksD H5 {
   color: #000000;
 }
+.cid-t0BwpwHfMH {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #fafafa;
+}
+.cid-t0BwpwHfMH .mbr-text {
+  text-align: center;
+}
 .cid-sx5fCqeTmz {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -1227,7 +1235,7 @@ a {
 .cid-sx5fCqeTmz .item-img {
   width: 100%;
   height: 100%;
-  height: 400px;
+  height: 500px;
   object-fit: cover;
 }
 .cid-sx5fCqeTmz .item:focus,
@@ -1279,95 +1287,23 @@ a {
   text-align: left;
   color: #bbbbbb;
 }
-.cid-sXSuya22PB {
+.cid-t0Bur0ZP7v {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #65c6d4;
+  background-color: #9fdbf8;
 }
-.cid-sXSuya22PB .video-wrapper iframe {
+.cid-t0Bur0ZP7v .video-wrapper iframe {
   width: 100%;
 }
-.cid-sXSuya22PB .mbr-section-title,
-.cid-sXSuya22PB .mbr-description {
-  text-align: center;
-}
-@media (min-width: 992px) {
-  .cid-sXSuya22PB .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-sXSuya22PB .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-sXSuya22PB .mbr-text {
-  text-align: center;
-}
-.cid-sXSuz7DpUV {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #9b52a0;
-}
-.cid-sXSuz7DpUV .row {
-  flex-direction: row-reverse;
-}
-.cid-sXSuz7DpUV .video-wrapper iframe {
-  width: 100%;
-}
-.cid-sXSuz7DpUV .mbr-section-title,
-.cid-sXSuz7DpUV .mbr-description {
-  text-align: center;
-}
-@media (min-width: 992px) {
-  .cid-sXSuz7DpUV .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-sXSuz7DpUV .mbr-text {
-  text-align: center;
-}
-.cid-sXSuz7DpUV .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-sXSuzZq0HD {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #e6c63b;
-}
-.cid-sXSuzZq0HD .video-wrapper iframe {
-  width: 100%;
-}
-.cid-sXSuzZq0HD .mbr-section-title,
-.cid-sXSuzZq0HD .mbr-description {
-  text-align: center;
-}
-@media (min-width: 992px) {
-  .cid-sXSuzZq0HD .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-sXSuzZq0HD .mbr-text {
-  text-align: center;
-}
-.cid-sXSuzZq0HD .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-sx5fMOynda {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-sx5fMOynda .video-wrapper iframe {
-  width: 100%;
-}
-.cid-sx5fMOynda .mbr-section-title,
-.cid-sx5fMOynda .mbr-section-subtitle,
-.cid-sx5fMOynda .mbr-text {
+.cid-t0Bur0ZP7v .mbr-section-title,
+.cid-t0Bur0ZP7v .mbr-section-subtitle,
+.cid-t0Bur0ZP7v .mbr-text {
   text-align: center;
 }
 .cid-sx5g4hlRIH {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background: #ffffff;
+  background: #fff0b0;
 }
 @media (max-width: 767px) {
   .cid-sx5g4hlRIH .row {
