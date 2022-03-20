@@ -1,0 +1,13 @@
+Robots.txt
+
+User-agent: Mediapartners-Google
+
+Allow:
+
+User-agent: *
+
+Allow: /search
+
+Allow: /
+
+Sitemap: https://www.vasaka-solterra.com/feeds/posts/default?orderby=UPDATED
