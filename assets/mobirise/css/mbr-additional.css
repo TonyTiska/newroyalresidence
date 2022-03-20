@@ -756,7 +756,7 @@ a {
 }
 .cid-sx5flufoOt .dropdown-menu,
 .cid-sx5flufoOt .navbar.opened {
-  background: #ffffff !important;
+  background: #000000 !important;
 }
 .cid-sx5flufoOt .nav-item:focus,
 .cid-sx5flufoOt .nav-link:focus {
@@ -791,7 +791,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(0, 0, 0, 0.4);
 }
 .cid-sx5flufoOt .navbar.opened {
   transition: all 0.3s;
@@ -936,7 +936,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sx5flufoOt .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-sx5flufoOt .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
