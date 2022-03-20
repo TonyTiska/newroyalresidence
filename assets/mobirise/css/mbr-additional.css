@@ -1287,6 +1287,22 @@ a {
   text-align: left;
   color: #bbbbbb;
 }
+.cid-t0BEOqGIxh {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-t0BEOqGIxh .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-t0BEOqGIxh .row {
+  flex-direction: row-reverse;
+}
+.cid-t0BEOqGIxh img {
+  width: 100%;
+}
 .cid-t0Bur0ZP7v {
   padding-top: 0rem;
   padding-bottom: 0rem;
